@@ -14,10 +14,6 @@ The aim of a prompt-based application tailored to personal needs is to enhance c
 - Streamlit or Flask (Python) for creating a web-based task manager.
 
 
-# Explanation: 
-### Prompt:
-"Design an AI-powered habit-building assistant that helps users set goals, track progress, and receive personalized motivation to stay consistent. The assistant should adapt to the user’s success rate and offer adjustments to improve adherence over time."
-
 ## Procedure:
 ### 1. Define Objectives & Scope
 - Identify the primary function: setting goals, tracking habits, offering motivation.
