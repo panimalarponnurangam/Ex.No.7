@@ -48,6 +48,7 @@ The aim of a prompt-based application tailored to personal needs is to enhance c
 #### 1. Daily Task Manager
  **User:**
 "I have a meeting at 10 AM, a report due by 3 PM, and I need to buy groceries. Can you organize my tasks?"
+
 **AI Assistant:**
 
 "Sure! Here's your schedule for the day:
@@ -61,6 +62,7 @@ I will remind you for these using alarm.
 **User:**
 
 "Can you find the best time for me to work out today?"
+
 **AI Assistant:**
 
 "Based on your schedule, you have free time between 3:30 PM and 4:30 PM. Would you like me to schedule a workout session during that time?"
@@ -69,6 +71,7 @@ I will remind you for these using alarm.
 **User:**
 
 "I’ve been feeling stressed lately. Any tips?"
+
 **AI Assistant:** 
 
 "Stress relief is important! Try taking a 5-minute mindfulness break, breathing exercises, or a short walk. Would you like me to schedule relaxation reminders throughout the day?"
@@ -77,6 +80,7 @@ I will remind you for these using alarm.
 **User:**
 
 "Can you tell me some interesting facts about space?"
+
 **AI Assistant:** 
 
 "Absolutely! Did you know that a day on Venus is longer than a year on Venus? Venus takes 243 Earth days to rotate once, while it takes only 225 days to orbit the Sun."
@@ -84,6 +88,7 @@ I will remind you for these using alarm.
 #### 5. User Personalization and Learning
 **User:**
 "I’ve been skipping my morning meditation. Can you remind me differently?"
+
 **AI Assistant:** 
 
 "I noticed you've missed your meditation sessions. Instead of morning reminders, I can schedule them in the evening when you seem more available. Does that work for you?"
