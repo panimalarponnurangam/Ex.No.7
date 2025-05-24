@@ -15,7 +15,7 @@ The aim of a prompt-based application tailored to personal needs is to enhance c
 
 
 # Explanation: 
-Prompt:
+### Prompt:
 "Design an AI-powered habit-building assistant that helps users set goals, track progress, and receive personalized motivation to stay consistent. The assistant should adapt to the user’s success rate and offer adjustments to improve adherence over time."
 
 ## Procedure:
